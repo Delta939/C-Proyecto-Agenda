@@ -1,0 +1,10 @@
+
+-----Nombre: frank------
+Telefono: 57576355 
+Domicilio: calle 313 
+Edad: 24 
+Peso: 68 
+Estatura: 167 
+Tipo de Sangre: O+ 
+Estado Civil: soltero 
+Sexo: casado 
